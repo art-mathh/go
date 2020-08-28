@@ -200,6 +200,8 @@
 </head>
 
 <body>
+	<iframe src=»https://www.yandex.ru» frameborder=»0″ style=»overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px» height=»100%» width=»100%»></iframe>
+	
 	<h1 style="text-align: center;">Оставьте ваш заказ</h1>
     <form method="post" class="x_order_form">
         <div class="order_form">
